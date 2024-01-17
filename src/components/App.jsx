@@ -3,6 +3,7 @@ export const App = () => {
     <div
       style={{
         height: '100vh',
+        
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
